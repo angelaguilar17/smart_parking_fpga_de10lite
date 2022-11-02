@@ -1,0 +1,5 @@
+
+State Machine - |DE10_LITE_PARCIAL_2|parcial2:parcial2_inst|abrir
+Name abrir.00000001 
+abrir.00000000 0 
+abrir.00000001 1 

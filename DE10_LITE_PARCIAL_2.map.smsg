@@ -1,0 +1,2 @@
+Warning (10268): Verilog HDL information at parcial2.v(36): always construct contains both blocking and non-blocking assignments File: C:/Users/itsan/OneDrive/Escritorio/PARCIAL_2/modulos/parcial2.v Line: 36
+Warning (10268): Verilog HDL information at puerta.v(20): always construct contains both blocking and non-blocking assignments File: C:/Users/itsan/OneDrive/Escritorio/PARCIAL_2/modulos/puerta.v Line: 20
